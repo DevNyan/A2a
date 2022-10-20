@@ -12,6 +12,7 @@ void main()
         ch += 32;
         printf("%c",ch);
     }
+    else printf("Error\n");
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
